@@ -9,7 +9,7 @@ public class Swap {
         a = a+b;
         b = a-b;
         a = a-b;
-        System.out.println("A = " + a + "\nB = " + b);
+        System.out.println("A= " + a + "\nB= " + b);
     }
     
 }
