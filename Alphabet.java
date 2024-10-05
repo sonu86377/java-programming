@@ -14,6 +14,7 @@ public class Alphabet {
         else{
             System.out.println("Not a alphabet");
         }
+        sc.close();
     }
     
 }

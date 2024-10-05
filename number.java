@@ -13,5 +13,6 @@ public class number {
         else{
             System.out.println("condion not satisfied");
         }
+        sc.close();
     }
 }
